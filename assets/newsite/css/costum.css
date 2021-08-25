@@ -1,0 +1,289 @@
+.slide-content-box {
+    border-radius: 8px;
+}
+.fact-counter-area .single-item p {
+    color: white;
+    font-size: 14px;
+}
+#footer-google-map {
+    height: 200px;
+    width: 100%;
+}
+.textwhite {
+    color: white;
+}
+.mainmenu-area .logo {
+    padding: 0px;
+}
+
+#flyout {
+    position: fixed;
+    text-align: right;
+    top: 500px;
+    right: -225px;
+    z-index: 8;
+    transform: rotate(90deg);
+}
+
+#flyout .btn-flyout {
+    background-color: #FF6300;
+    color: white;
+    padding: 8px 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.image-align-left {
+    float: left;
+    margin-right: 20px;
+}
+.image-align-center {
+    text-align: center;
+}
+.image-align-right {
+    float: right;
+    margin-left: 20px;
+}
+figure > figcaption {
+    text-align: center;
+    display: block;
+    background: #0392ce;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+figure > img {
+    border: 2px solid #0392ce;
+}
+.blog-post .block-date-info {
+     display: block;
+     background: #ff6e00;
+     color: #ffffff;
+     padding: 10px;
+     margin-top: -30px;
+     border: 1px solid #ff6e00;
+ }
+
+.date-info {
+    display: block;
+    color: #848484;
+    padding: 10px 10px 0px 10px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.breadcrumb-area .breadcrumbs .sec-title {
+    margin-top: -3px;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.breadcrumb-area .breadcrumbs .sec-title h1 {
+     margin: 0px;
+}
+
+.breadcrumb-area .breadcrumbs .sec-title.mar0auto .border:before {
+    left: 50%;
+    margin-left: -35px;
+}
+.welcome-area .text-holder h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.welcome-area .text-holder h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.welcome-area .text-holder h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.welcome-area .text-holder .title {
+    padding-bottom: 0px;
+}
+.welcome-area .text-holder ul, li {
+    /*list-style: circle;*/
+}
+.time-table tbody .single-doctor {
+    padding: 10px;
+}
+
+.callto-action-area .inner-content .title-doctor {
+    max-width: 200px;
+    padding: 28px;
+    margin: 0px 0 0;
+}
+.callto-action-area .inner-content .title-doctor h2 {
+    margin: 0px 0 0;
+}
+.callto-action-area .inner-content.inner-doctor .form-holder {
+    padding: 30px 20px 15px;
+}
+.callto-action-area .inner-content .title-doctor span:before {
+    color: #ffffff;
+    font-size: 35px;
+    line-height: 17px;
+}
+.callto-action-area .inner-content.inner-doctor {
+    padding-left: 200px;
+    min-height: 100px;
+}
+.callto-action-area .inner-content .form-holder button.btn-search-doctor {
+    width: 100%;
+    display: block;
+    padding: 0px;
+    height: 33px;
+    margin: 0 auto;
+    float: left;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+
+#imaginary_container{
+    margin-top:8%;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius : 10px;
+}
+.stylish-input-group .form-control{
+    border-right:0;
+    box-shadow:0 0 0;
+    border-color:#ccc;
+    border-radius: 10px;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.callto-action-area .inner-callus {
+    min-height: 177px;
+}
+.callto-action-area .inner-callus .title-box {
+
+    padding: 55px 0 55px;
+}
+.post-search {
+    position: relative;
+    padding: 10px 0px;
+    display: block;
+}
+.post-search .search input[type="text"], .post-search input[type="search"] {
+    position: relative;
+    display: block;
+    width: 100%;
+    line-height: 24px;
+    background: none;
+    padding: 7px 40px 7px 15px;
+    border: 1px solid #ccc;
+    color: #252525;
+    font-size: 14px;
+    border-radius: 0px;
+    transition: all 500ms ease;
+}
+.post-search button {
+    border-radius: 0;
+    display: block;
+    font-size: 14px;
+    height: 40px;
+}
+.post-search .search {
+    position: relative;
+    margin: 0px;
+}
+.breadcrumbs-top {
+    -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+    position: relative;
+    z-index: 2;
+}
+.breadcrumbs-top ul li {
+    padding-right: 20px;
+    margin-right: 15px;
+    font-size: 14px;
+}
+.breadcrumbs-top ul li {
+    line-height: 40px;
+    font-size: 13px;
+}
+.breadcrumbs-top ul li {
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 30px;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 0;
+    position: relative;
+    font-weight: bold;
+}
+
+.breadcrumbs-top ul{
+    margin-left: 16px;
+}
+.breadcrumbs-top ul a.bc-home {
+    width: 14px;
+    position: relative;
+}
+.breadcrumbs-top ul a {
+    display: inline-block;
+    color: #6d6d6d;
+}
+.breadcrumbs-top ul li::before {
+    right: 0;
+}
+.breadcrumbs-top ul li.bc-middle::before {
+    font-family: FontAwesome;
+    content: "\f105";
+    display: block;
+    position: absolute;
+    right: -4px;
+    top: -1px;
+}
+@media only screen and (min-width: 767px) {
+    .img-foot {
+        margin-top: 50px;
+    }
+}
+
+.slide-content-box > p {
+    color: #000000 !important;
+}
+
+.ui-selectmenu-menu .ui-menu {
+    max-height: 255px !important;
+}
+
+@media (min-width: 979px) {
+    .slide-content-box > p {
+        font-size: 20px !important;
+    }
+}
+@media (max-width: 778px) {
+    .slide-content-box > p {
+        font-size: 16px !important;
+    }
+}
+@media (max-width: 480px) {
+    .slide-content-box > p {
+        font-size: 10px !important;
+    }
+}
+.doctor-page-area ul.nav li.header a, .doctor-page-area ul.nav li.header a:focus, .doctor-page-area ul.nav li.header a:hover {
+    color: #ffffff;
+    cursor: default;
+    background-color: #FF6300;
+    border: 1px solid #FF6300;
+    font-size: 20px;
+    font-weight: 500;
+}

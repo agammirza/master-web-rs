@@ -1,0 +1,299 @@
+/*--------------------------------------------------------------
+# Fasilitas Layanan
+--------------------------------------------------------------*/
+.fasilitas-layanan {
+  overflow: hidden;
+}
+
+.fasilitas-layanan .nav-stacked {
+  border: 0;
+}
+
+.fasilitas-layanan .nav-link {
+  border: 0;
+  padding: 12px 15px 12px 0;
+  transition: 0.5s;
+  color: #2c4964;
+  border-radius: 0;
+  border-right: 2px solid #ebf1f6;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.fasilitas-layanan .nav-link:hover {
+  color: #1977cc;
+}
+
+.fasilitas-layanan .nav-link.active {
+  color: #1977cc;
+  border-color: #1977cc;
+}
+
+.fasilitas-layanan .tab-pane.active {
+  -webkit-animation: fadeIn 0.5s ease-out;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.fasilitas-layanan .details h3 {
+  padding-top: 17px;
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #2c4964;
+}
+
+.fasilitas-layanan .wrapper{
+  max-width: 500px;
+  margin: 10px auto;
+}
+
+.fasilitas-layanan .demo-1{
+  text-align: justify;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.fasilitas-layanan .details p {
+  color: #777777;
+
+}
+
+.fasilitas-layanan .details p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 992px) {
+  .fasilitas-layanan .nav-link {
+    border: 0;
+    padding: 15px;
+  }
+  .fasilitas-layanan .nav-link.active {
+    color: #fff;
+    background: #1977cc;
+  }
+}
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #444444;
+}
+
+/* a {
+  color: #1977cc;
+}
+
+a:hover {
+  color: #3291e6;
+  text-decoration: none;
+} */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+}
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+.section-bg {
+  background-color: #f1f7fd;
+}
+
+.section-title {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #2c4964;
+}
+
+.section-title h2::before {
+  content: '';
+  position: left;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.section-title h2::after {
+  content: '';
+  position: left;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #1977cc;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+#main {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.5) 0%,rgba(255,255,255,0.4) 100%), url('../../img/new-background.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  /* background-size: cover; */
+  /* background-size: auto 63%; */
+  /* background-position: center top; */
+  /* background-attachment: fixed; */
+}
+
+/*--------------------------------------------------------------
+# Back to top button
+--------------------------------------------------------------*/
+.back-to-top {
+  position: fixed;
+  display: none;
+  right: 15px;
+  bottom: 15px;
+  z-index: 99999;
+}
+
+.back-to-top i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  /* background: #1977cc; */
+  background: #e03a14;
+  color: #fff;
+  transition: all 0.4s;
+}
+
+.back-to-top i:hover {
+  /* background: #1c84e3; */
+  background: #f34318;
+  color: #fff;
+}
+
+.datepicker-dropdown {
+  padding: 20px !important;
+}
+
+/*--------------------------------------------------------------
+# Gallery
+--------------------------------------------------------------*/
+.gallery .gallery-item {
+  overflow: hidden;
+  border-right: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+}
+
+.gallery .gallery-item img {
+  transition: all ease-in-out 0.4s;
+}
+
+.gallery .gallery-item:hover img {
+  transform: scale(1.1);
+}
+
+/*--------------------------------------------------------------
+# Breadcrumbs
+--------------------------------------------------------------*/
+.breadcrumbs {
+  padding: 20px 0;
+  background-color: #f1f7fd;
+  min-height: 40px;
+  /* margin-top: 120px; */
+  margin-top: 140px;
+}
+
+@media (max-width: 992px) {
+  .breadcrumbs {
+    /* margin-top: 63px; */
+    margin-top: 100px;
+  }
+}
+
+.breadcrumbs h2 {
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+}
+
+@media (max-width: 992px) {
+  .breadcrumbs h2 {
+    margin: 0 0 10px 0;
+  }
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+.breadcrumbs ol li + li {
+  padding-left: 10px;
+}
+
+.breadcrumbs ol li + li::before {
+  display: inline-block;
+  padding-right: 10px;
+  color: #6c757d;
+  content: "/";
+}
+
+@media (max-width: 768px) {
+  .breadcrumbs .d-flex {
+    display: block !important;
+  }
+  .breadcrumbs ol {
+    display: block;
+  }
+  .breadcrumbs ol li {
+    display: inline-block;
+  }
+}
+
+/*--------------------------------------------------------------
+# Button
+--------------------------------------------------------------*/
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+/*--------------------------------------------------------------
+# Button Selengkapnya
+--------------------------------------------------------------*/
+.btn-selengkapnya {
+  font-family: "Nunito", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 35px;
+  margin-top: 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #fff;
+  background: #1977cc;
+}
+
+.btn-selengkapnya:hover {
+  background: #3291e6;
+  color: #fff;
+}

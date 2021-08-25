@@ -1,0 +1,123 @@
+<section class="rev_slider_wrapper tp-mouseover" style="overflow: visible; height: 750px;">
+    <div id="slider1" class="rev_slider revslider-initialised tp-simpleresponsive" data-version="5.0" style="margin-top: 0px; margin-bottom: 0px; height: 750px;">
+        <ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 1287px; height: 100%; max-height: none; left: 0px;">
+            <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes"></div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1599541007.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1599541007.jpg">
+                </div>
+                </div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 506px; z-index: 1;">
+                <div class="tp-loop-wrap" style="position:absolute;">
+                <div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;">
+                <div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">INFORMASI LAYANAN PELANGGAN RSUI</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Informasi lebih lanjut dapat klik di bawah ini</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="https://www.instagram.com/p/CE3GbzhMs2i/?igshid=1eg2tseix86b" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+            <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes"></div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1607672041.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1607672041.jpg">
+                </div>
+                </div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 430px; z-index: 1;">
+                <div class="tp-loop-wrap" style="position:absolute;">
+                <div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;">
+                <div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">RSUI MELAYANI PASIEN RUJUKAN BPJS KESEHATAN</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Dalam hal ini penerimaan pasien sesuai dengan sistem rujukan berjenjang berdasarkan ketentuan dari BPJS Kesehatan.</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="berita/rsui-melayani-pasien-rujukan-bpjs-kesehatan" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+            <li data-transition="fade" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes">
+                </div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1593764672.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1593764672.jpg">
+                </div>
+                </div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: visible; left: 244px; top: 458px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: inherit; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">BAGAIMANA CARA MUDAH KETEMU DOKTER RSUI ?</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Cari tahu yuk, bagaimana sih langkahnya.</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="layanan/cara-mudah-ketemu-dokter-rsui" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+            <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes">
+                </div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1589877487.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1589877487.jpg">
+                </div>
+                </div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 506px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">LAYANAN TELEMEDICINE RSUI</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Kini Semakin Mudah, Konsultasi Dokter #diRumahAja</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="layanan/layanan-telemedicine" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div>
+                </div></div></div></div></div>
+            </li>
+            <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes">
+                </div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1589860014.jpg ')?>">
+                </div></div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 430px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">RSUI GUNAKAN BILIK SWAB TEST HASIL INOVASI MULTIDISIPLIN BIDANG ILMU UI</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Pemeriksaan swab (swab test) merupakan pemeriksaan untuk mendeteksi virus corona dengan menggunakan menggunakan mesin Polymerase Chain Reaction (PCR).</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="berita/rsui-gunakan-bilik-swab-test-hasil-inovasi-multidisiplin-bidang-ilmu-di-ui" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+            <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes"></div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1589769847.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1589769847.jpg"></div>
+                </div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 458px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">LAYANAN DRIVE THRU PEMERIKSAAN SWAB PCR COVID-19 RSUI</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Kini Semakin Mudah Cek Swab PCR COVID-19 Melalui #DriveThruAja</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="berita/layanan-drive-thru-pemeriksaan-swab-pcr-covid-19-rsui" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+        <li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+                <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+                <div class="tp-dottedoverlay yes"></div>
+                <div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;images/slider/1608257875.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="images/slider/1608257875.jpg">
+                </div></div>
+                <div class="tp-parallax-wrap" style="position: absolute; visibility: hidden; left: 244px; top: 506px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: visible; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption tp-resizeme" data-type="image" data-x="center" data-y="bottom" data-voffset="20" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-width="['800', '800', '800', '800']" data-start="1500" style="visibility: hidden; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 800px; max-height: none; max-width: 800px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                <div class="slide-content-box" style="background: rgba(255, 255, 255, 0.5); white-space: normal !important; transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px; padding: 29px 35px 35px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <h1 style="transition: none 0s ease 0s; line-height: 48px; border-width: 0px; margin: 0px 0px 10px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 36px;">PAKET SIRKUMSISI (SUNAT) ANAK</h1>
+                <p style="transition: none 0s ease 0s; line-height: 28px; border-width: 0px; margin: 0px 0px 35px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 20px;">Cari tahu selengkapnya yuk.</p>
+                <div class="button" style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 12px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+                <a class="#" href="layanan/paket-sirkumsisi-sunat-anak" target="_blank" style="transition: none 0s ease 0s; line-height: 26px; border-width: 2px; margin: 0px 16px 0px 0px; padding: 13px 38px 12px; letter-spacing: 0px; font-weight: 700; font-size: 14px;">Selanjutnya</a>
+                </div></div></div></div></div></div>
+            </li>
+        </ul>
+
+        <div class="tp-loader spinner0" style="display: none;">
+            <div class="dot1"></div>
+            <div class="dot2"></div>
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+        <div class="tp-bannertimer" style="visibility: visible; width: 85.38%; transform: translate3d(0px, 0px, 0px);"></div>
+        <div class="tp-leftarrow tparrows" style="top: 50%; transform: matrix(1, 0, 0, 1, 20, -25); left: 0px; visibility: hidden; opacity: 0;"></div>
+        <div class="tp-rightarrow tparrows" style="top: 50%; transform: matrix(1, 0, 0, 1, -70, -25); left: 100%; visibility: hidden; opacity: 0;"></div>
+    </div>
+
+</section>
